@@ -2,7 +2,7 @@ Privacy Policy for SKAi2 Pay App
 
 SKAi2Pay Limited (Registration Number 14654958) is committed to protecting the privacy of our users. This policy outlines how we collect, process, and safeguard your personal data when you use our mobile application, SKAi2, as well as our website. We adhere to applicable data protection laws, including the General Data Protection Regulation (GDPR).
 
-While you can browse our website without providing personal information, certain features—such as requesting a demo or scheduling a call—may require you to submit personal data.
+While you can browse our website without providing personal information, certain features—such as requesting a demo or scheduling a call through our website, or using the SKAi2pay app may require you to submit personal data.
 
 This Privacy Policy explains:
 
@@ -31,12 +31,13 @@ Browser type and version
 Response time of the request
 This data is temporarily stored to ensure the functionality of the website, optimize user experience, and maintain the security of our IT systems.
 
+
 When using our mobile application: When you use the SKAi2 mobile application, your device may transmit technical data automatically. The following information may be collected:
 
 User Account Information: Data such as your name, email address, phone number, and any other information required for account creation and verification.
 Financial Data: In compliance with KYC regulations, we may collect and process information related to your financial transactions, including:
   Bank Account Details: Information about your bank accounts, including account numbers and bank identifiers.
-  Payment Card Information: Details of payment cards used for transactions, such as card numbers (stored securely), expiration dates, and card verification values       (CVV).
+  Payment Card Information: Details of payment cards used for transactions, such as card numbers (stored securely), expiration dates, and card verification values(CVV).
   Transaction History: A record of your transactions within the app, including amounts, dates, and descriptions to facilitate monitoring and verification.
   Payment Preferences: Information about your preferred payment methods and settings.
   Source of Funds: Information that helps us understand the origin of your funds, ensuring compliance with anti-money laundering (AML) regulations.
@@ -46,5 +47,6 @@ Geolocation Data: If you permit location access, we may collect geolocation data
 Usage Data: Information on how you interact with the app, including session duration, features accessed, and user preferences.
 Authentication Data: Information related to your login credentials, including passwords (encrypted) and authentication tokens.
 Third-Party Integrations: Data shared with or received from third-party services you choose to connect with, such as financial institutions or payment processors.
-
 This data is used to enhance the functionality and user experience of the mobile application, ensure the security of our systems, and comply with financial regulations.
+
+To comply with applicable know your-client-rules and anti-money laundering regulations (such as the Law on the Prevention of Money Laundering and Terrorist Financing of the Republic of Lithuania No VIII275 of 19 June 1997 (as amended), we and/or each partner shall be entitled to carry out all necessary verifications of your identity. 
